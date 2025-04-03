@@ -26,7 +26,6 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 
 - **Metodologias e Práticas de Desenvolvimento:**  
   - **Programação Orientada a Objetos (POO):** Design de sistemas modulares e escaláveis.  
-  - **TDD:** Testes automatizados e boas práticas de desenvolvimento de software.
   - **SCRUM:** Utilização de metodologias ágeis e aprimoramento de processos de desenvolvimento.
 
 ## 💼 Projetos Relevantes
