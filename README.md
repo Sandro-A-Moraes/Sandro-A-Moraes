@@ -1,4 +1,4 @@
-# Sandro Almeida de Moraes - Engenharia de Software | Desenvolvedor
+# Sandro Almeida de Moraes - Engenharia de Software | Desenvolvedor Web
 
 Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de Software** e apaixonado por **desenvolvimento de software**, sempre em busca de novas formas de aprender e melhorar. Atualmente, estou em constante evolução nas áreas de **desenvolvimento web**, **programação orientada a objetos (POO)**, **estruturas de dados** e **algoritmos**, e continuo me desafiando em projetos reais que ampliam minhas habilidades.
 
@@ -8,7 +8,7 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 - **Idade:** 20 anos  
 - **Formação:** Estudante de Engenharia de Software  
 - **Interesses:** Desenvolvimento de Sites, Programação, Desenvolvimento de Software, Tecnologia, Inovação, Desafios de Algoritmos  
-- **Experiência com Programação:** C, Java, JavaScript, linguagens de marcação (markdown e HTML), CSS e estou em constante aprendizado sobre novas tecnologias.
+- **Experiência com Programação:** C, Java, JavaScript, Python, linguagens de marcação (markdown e HTML5), CSS3 e estou em constante aprendizado sobre novas tecnologias.
 
 ## 🚀 Habilidades
 
@@ -26,7 +26,7 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 
 - **Metodologias e Práticas de Desenvolvimento:**  
   - **Programação Orientada a Objetos (POO):** Design de sistemas modulares e escaláveis.  
-  - **SCRUM:** Utilização de metodologias ágeis e aprimoramento de processos de desenvolvimento.
+  - **SCRUM e XP:** Utilização de metodologias ágeis e aprimoramento de processos de desenvolvimento.
 
 ## 💼 Projetos Relevantes
 
@@ -40,8 +40,12 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 
 ### **3. Criação de um Site para Turismo Regional**
 - **Tecnologias:** JavaScript, HTML, CSS, Git, GitHub, Figma. 
-- **Descrição:** Criação de um site em um projeto de faculdade, onde fomos mais além e implementamos carrossel de imagens e apresentamos algumas localidades potencialmente turísticas da cidade de Parauapebas-PA. Disponpivel em: https://Sandro-A-Moraes.github.io/
+- **Descrição:** Criação de um site em um projeto de faculdade, onde fomos mais além e implementamos carrossel de imagens e apresentamos algumas localidades potencialmente turísticas da cidade de Parauapebas-PA. Disponível em: https://Sandro-A-Moraes.github.io/caminhos-e-trilhas/index.html
 
+### **4. Criação de uma Landing Page para um Restaurante Fictício**
+- **Tecnologias:** JavaScript, HTML5, CSS3, Git, GitHub, Figma. 
+- **Descrição:** Restauurante de Luxo, contendo seções como Início, Quem Somos, Cardápio e Dúvidas. Site totalmente responsivo, adaptando-se perfeitamente a diferentes tipos de dispositivos sem perder a identidade visual. Paleta de cores cuidadosamente selecionada para demonstrar a elegância do restaurante. Exibição do cardápio em formato de carrossel de imagens. Disponível em: https://Sandro-A-Moraes.github.io/restaurante-araraquara/index.html
+  
 ## 🧠 Aprendizado Contínuo
 
 Sempre busco expandir meus conhecimentos, participando de cursos, maratonas e eventos relacionados à **tecnologia**. No momento, estou aprofundando meus estudos em **Programação Orientada a Objetos (POO)** e **desenvolvimento web**.
