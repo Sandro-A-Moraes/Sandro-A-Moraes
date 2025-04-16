@@ -1,4 +1,5 @@
 # Sandro Almeida de Moraes - Engenharia de Software | Desenvolvedor Web
+[![MasterHead](https://images.alphacoders.com/121/thumb-1920-1218911.jpg)](https://Sandro-A-Moraes.github.io)
 
 Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de Software** e apaixonado por **desenvolvimento de software**, sempre em busca de novas formas de aprender e melhorar. Atualmente, estou em constante evolução nas áreas de **desenvolvimento web**, **programação orientada a objetos (POO)**, **estruturas de dados** e **algoritmos**, e continuo me desafiando em projetos reais que ampliam minhas habilidades.
 
@@ -12,15 +13,33 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 
 ## 🚀 Habilidades
 
-- **Linguagens de Programação:**  
+### Meus Status
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ 
+<a href="https://git.io/streak-stats"><img style="width: 520px" src="http://github-readme-streak-stats.herokuapp.com?user=Sandro-A-Moraes&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
+
+
+
+- **Linguagens de Programação:**
+  
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   - **Java:** Domínio crescente em orientação a objetos, projetos com práticas de boas práticas de design de código.  
   - **C:** Experiência sólida com a linguagem, principalmente em estruturas de dados e algoritmos.
+ 
 
-- **Desenvolvimento Web e Banco de Dados:**  
+- **Desenvolvimento Web e Banco de Dados:**
+  
+    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  
   - **HTML/CSS/JavaScript:** Desenvolvimento front-end Intermediário e integração básica de APIs.
-  - **SQL:** Criação e manutenção de bancos de dados, consultas eficientes.
+  - **Bootstrap:** Utilização de um framework CSS para responsividade em páginas web
+  - **MySQL:** Criação e manutenção de bancos de dados, consultas eficientes.
 
-- **Ferramentas e Frameworks:**  
+- **Ferramentas e Frameworks:**
+  
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  
   - **Git/GitHub:** Versionamento de código avançado e colaboração em projetos.
   - **React:** Experiência básica.
 
