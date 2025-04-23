@@ -16,8 +16,10 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 ### Meus Status
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
- 
-<a href="https://git.io/streak-stats"><img style="width: 520px" src="http://github-readme-streak-stats.herokuapp.com?user=Sandro-A-Moraes&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
+<br/>
+
+![Sandro-A-Moraes's Stats](https://github-readme-stats.vercel.app/api?username=Sandro-A-Moraes&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandro-A-Moraes&theme=dark)](https://git.io/streak-stats) !-->
 
 
 
