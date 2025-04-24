@@ -14,11 +14,11 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 ## 🚀 Habilidades
 
 ### Meus Status
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-
-![Sandro-A-Moraes's Stats](https://github-readme-stats.vercel.app/api?username=Sandro-A-Moraes&theme=dark&show_icons=true&hide_border=true&count_private=true)
+<div>
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-A-Moraes&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-A-Moraes&layout=donut&langs_count=8" alt="Top Langs by Sandro-A-Moraes" width="400" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandro-A-Moraes&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400" height="300"/>
+</div>
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandro-A-Moraes&theme=dark)](https://git.io/streak-stats) !-->
 
 
