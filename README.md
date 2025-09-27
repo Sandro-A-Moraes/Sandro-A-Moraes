@@ -1,15 +1,15 @@
 # Sandro Almeida de Moraes - Engenharia de Software | Desenvolvedor Web
 [![MasterHead](https://images.alphacoders.com/121/thumb-1920-1218911.jpg)](https://Sandro-A-Moraes.github.io)
 
-Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de Software** e apaixonado por **desenvolvimento de software**, sempre em busca de novas formas de aprender e melhorar. Atualmente, estou em constante evolução nas áreas de **desenvolvimento web**, **programação orientada a objetos (POO)**, **estruturas de dados** e **algoritmos**, e continuo me desafiando em projetos reais que ampliam minhas habilidades.
+Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de Software** e apaixonado por **desenvolvimento de software**, sempre em busca de evoluir como profissional. Atualmente, me especializo em **desenvolvimento web full stack**, aplicando tecnologias modernas em **projetos reais** e explorando boas práticas de **arquitetura, testes e escalabilidade**.
 
 ## 👨‍💻 Sobre Mim
 
 - **Nome:** Sandro Almeida de Moraes  
 - **Idade:** 20 anos  
-- **Formação:** Estudante de Engenharia de Software  
-- **Interesses:** Desenvolvimento de Sites, Programação, Desenvolvimento de Software, UX/UI, Design, Tecnologia, Inovação, Desafios de Algoritmos  
-- **Experiência com Linguagens:** C, C++, C Arduino, Java, JavaScript, Python, linguagens de marcação (markdown, HTML5 e LATEX), CSS3 e estou em constante aprendizado sobre novas tecnologias.
+- **Formação:** Estudante de Engenharia de Software (UEPA)
+- **Interesses:** Desenvolvimento Web Full Stack, APIs, Arquitetura de Software, UX/UI, Cloud Computing, Algoritmos e Estruturas de Dados  
+- **Experiência com Linguagens e Tecnologias:** React.js, Node.js, TypeScript, Tailwind CSS, Docker, MongoDB, MySQL, JavaScript (ES6+), Python, C, Java, Git/GitHub, Figma
 
 ## 🚀 Habilidades
 
@@ -25,8 +25,8 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 
 - **Linguagens de Programação:**
   
-   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  - **JavaScript:** Linguagem com domínio principal, a qual eu uso para desenvolvimento de aplicações web responsivas e interativas com o usuário.
+   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  - **JavaScript/TypeScript:** Desenvolvimento de aplicações web modernas e escaláveis.
   - **Java:** Domínio crescente em orientação a objetos, projetos com uso de boas práticas de design de código.  
   - **C e C++:** Experiência sólida com a linguagem, principalmente em estruturas de dados e algoritmos.
  
