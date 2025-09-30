@@ -1,4 +1,4 @@
-# Sandro Almeida de Moraes - Engenharia de Software | Desenvolvedor Web
+# Sandro Almeida de Moraes - Engenharia de Software | Desenvolvedor Full Stack
 [![MasterHead](https://images.alphacoders.com/121/thumb-1920-1218911.jpg)](https://Sandro-A-Moraes.github.io)
 
 Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de Software** e apaixonado por **desenvolvimento de software**, sempre em busca de evoluir como profissional. Atualmente, me especializo em **desenvolvimento web full stack**, aplicando tecnologias modernas em **projetos reais** e explorando boas práticas de **arquitetura, testes e escalabilidade**.
@@ -33,23 +33,26 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 
 - **Desenvolvimento Web e Banco de Dados:**
   
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%black)
+    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
-  - **HTML/CSS/JavaScript(ES6):** Desenvolvimento front-end Intermediário e integração básica de APIs.
-  - **Figma:** Criação de Layouts customizados e atraentes, voltados à necessidade do cliente
-  - **Bootstrap:** Utilização para responsividade em páginas web
-  - **MySQL:** Criação e manutenção de bancos de dados intermediária, com consultas eficientes.
+  - **Front-End:** React.js, Tailwind CSS, Bootstrap, HTML5, CSS3, integração com APIs RESTful.
+  - **Back-End:** Node.js, Express, criação e consumo de APIs RESTful, TDD
+  - **Banco de Dados**: MySQL e MongoDB (modelagem, consultas e integração).
+  - **UX/UI**: Prototipação e design responsivo com Figma.
 
-- **Ferramentas e Frameworks:**
+- **Ferramentas e DevOps:**
   
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white) 
   
   - **Git/GitHub:** Versionamento de código avançado e colaboração em projetos open-source.
-  - **React:** Experiência básica.
+  - **Containers**: Docker (criação e gerenciamento de imagens e containers).
+  - **Cloud**: Fundamentos de AWS (S3, EC2, CloudFront).
 
 - **Metodologias e Práticas de Desenvolvimento:**  
-  - **Programação Orientada a Objetos (POO):** Design de sistemas modulares e escaláveis.  
-  - **SCRUM e XP:** Utilização de metodologias ágeis e aprimoramento de processos de desenvolvimento.
+  - Clean Code e SOLID
+  - Metodologias Ágeis: Scrum, XP
+  - Test-Driven Development (TDD)
+  - Arquitetura de Software
 
 ## 💼 Projetos Relevantes
 
@@ -92,9 +95,8 @@ Estou sempre aberto a novas colaborações, desafios e troca de ideias! Se você
 
 ## 🛠 Tecnologias que Estou Aprendendo
 
-- **Frameworks/Tools:** React  
-- **Linguagens:** JavaScript, Java, C, Python
-- **Outros:** SQL
+- **Frameworks/Tools:** Aprimorando em Express.js
+- **Cloud:** Obtendo a certificação AWS
 
 ---
 
