@@ -13,16 +13,6 @@ Olá! 👋 Bem-vindo ao meu perfil no GitHub. Sou estudante de **Engenharia de S
 
 ## 🚀 Habilidades
 
-### Meus Status
-<div>
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-A-Moraes&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandro-A-Moraes&layout=donut&langs_count=8" alt="Top Langs by Sandro-A-Moraes" width="400" height="300"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandro-A-Moraes&theme=dark&show_icons=true&hide_border=true&count_private=true" width="400" height="300"/>
-</div>
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandro-A-Moraes&theme=dark)](https://git.io/streak-stats) !-->
-
-
-
 - **Linguagens de Programação:**
   
    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
